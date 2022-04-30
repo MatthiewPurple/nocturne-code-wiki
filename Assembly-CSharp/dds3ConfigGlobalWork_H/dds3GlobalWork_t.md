@@ -3,92 +3,92 @@
 - Fields
 - Methods
 
-## Description
+# Description
 General datastructure used by save files
 
-## Fields
-### GameFileInfo_t GameFileInfo
+# Fields
+## GameFileInfo_t GameFileInfo
 Game file informations
-### sdfMemHandle_t mh
+## sdfMemHandle_t mh
 
-### int runtime
+## int runtime
 Game run time
-### int playtime
+## int playtime
 Game play time
-### int[] IntVariable
+## int[] IntVariable
 
-### float[] FloatVariable
+## float[] FloatVariable
 
-### int[] EventBit
+## int[] EventBit
 
-### evtMoon_t Moon
+## evtMoon_t Moon
 Kagutsuchi phase
-### int maka
+## int maka
 Current macca
-### uint stat
+## uint stat
 
-### int maxstock
+## int maxstock
 Maximum number of demons in stock
-### datUnitWork_t[] unitwork
+## datUnitWork_t[] unitwork
 List of the demons (entire stock?)
-### int[] stocklist
+## int[] stocklist
 
-### int stockcnt
+## int stockcnt
 
-### byte[] item
+## byte[] item
 
-### int[][] boss_press
+## int[][] boss_press
 
-### byte[] syakkincnt
+## byte[] syakkincnt
 
-### byte[] negoques
+## byte[] negoques
 
-### byte[] kotowari
+## byte[] kotowari
 
-### ushort wakimi_id
+## ushort wakimi_id
 
-### ushort bouga_cnt
+## ushort bouga_cnt
 
-### float encountkyori
+## float encountkyori
 
-### ushort encountcnt
+## ushort encountcnt
 
-### byte heartsequip
+## byte heartsequip
 Equipped magatama
-### byte[] hearts
+## byte[] hearts
 List of magatamas
-### byte[] heartsskcnt
+## byte[] heartsskcnt
 
-### byte heartscnt
+## byte heartscnt
 
-### byte[][] name_nums
+## byte[][] name_nums
 
-### byte[][] name_code
+## byte[][] name_code
 
-### byte[][] cname_code
+## byte[][] cname_code
 
-### byte[] cname_nums
+## byte[] cname_nums
 
-### fldSave_t fldSave
+## fldSave_t fldSave
 
-### int[][] config_data
+## int[][] config_data
 
-### int dmy
+## int dmy
 
-### ushort[][] hearts_sk
+## ushort[][] hearts_sk
 
-### sbyte[][] hearts_up_param
+## sbyte[][] hearts_up_param
 
-### fclEncycRecord_t encyc_record
+## fclEncycRecord_t encyc_record
 Compendium
-### fldAutoMapBuff31_t amap31
+## fldAutoMapBuff31_t amap31
 
-### fldAutoMapBuffEX_t amapEX
+## fldAutoMapBuffEX_t amapEX
 
-### fldAutoMapBuff_t amap_Ver7
+## fldAutoMapBuff_t amap_Ver7
 
-### fldAutoMapBuff31_t amap31_Ver7
+## fldAutoMapBuff31_t amap31_Ver7
 
-### fldAutoMapBuffEX_t amapEX_Ver7
+## fldAutoMapBuffEX_t amapEX_Ver7
 
-### int nameLanguage
+## int nameLanguage

@@ -7,70 +7,69 @@
 Demons info in stock (visible through menus)
 
 datUnitWork_t inherits from datUnitWork_s which has all the fields.
-
-## Fields
-### uint flag
-### ushort id
+# Fields
+## uint flag
+## ushort id
 Demon ID
-### ushort hp
+## ushort hp
 Demon HP
-### ushort maxhp
+## ushort maxhp
 Demon max HP
-### ushort mp
+## ushort mp
 Demon MP
-### ushort maxmp
+## ushort maxmp
 Demon max MP
-### ushort badstatus
+## ushort badstatus
 
-### uint exp
+## uint exp
 Demon experience
-### ushort level
+## ushort level
 Demon level
-### sbyte[] param
+## sbyte[] param
 Demon stats  
 [Strength, ???, Magic, Vitality, Agility, Luck]
-### sbyte[] skillparam
+## sbyte[] skillparam
 
-### ushort uniqueid
+## ushort uniqueid
 
-### ushort reserve1
+## ushort reserve1
 
-### ushort reserve2
+## ushort reserve2
 
-### char[] namecode
+## char[] namecode
 
-### int skillcnt
+## int skillcnt
 Demon number of skills (learnt only)
-### int[] skill
+## int[] skill
 Demon skill list (learnt only)
-### short nowcommand
+## short nowcommand
 
-### ushort nowindex
+## ushort nowindex
 
-### short nowtarea
+## short nowtarea
 
-### short nowtform
+## short nowtform
 
-### short prevcommand
+## short prevcommand
 
-### ushort previndex
+## ushort previndex
 
-### short prevtarea
+## short prevtarea
 
-### short prevtform
+## short prevtform
 
-### sbyte[] mitamaparam
+## sbyte[] mitamaparam
 
-### sbyte[] levelupparam
+## sbyte[] levelupparam
 
-### ushort[] keisyoskill
+## ushort[] keisyoskill
 Demon inherited skills from fusion
-### byte[] keiattr
+## byte[] keiattr
 
-### ushort hensinmae
+## ushort hensinmae
 
-### ushort[] getdevilhearts
+## ushort[] getdevilhearts
 Magatama ?
-### uint hensinmaeexp
+## uint hensinmaeexp
 
-### char[] fullnamecode
+## char[] fullnamecode

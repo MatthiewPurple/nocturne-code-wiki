@@ -3,56 +3,56 @@
 - Fields
 - Methods
 
-## Description
+# Description
 Demons info during battle (ally and enemy)
 
-## Fields
-### uint flag
+# Fields
+## uint flag
 
-### byte race
+## byte race
 Demon race
-### byte level
+## byte level
 Demon level
-### ushort hp
+## ushort hp
 Demon HP
-### ushort maxhp
+## ushort maxhp
 Demon max HP
-### ushort mp
+## ushort mp
 Demon MP
-### ushort maxmp
+## ushort maxmp
 Demon max MP
-### short aisyoid
+## short aisyoid
 
-### sbyte[] param
+## sbyte[] param
 Demon stats
-### ushort[] skill
+## ushort[] skill
 Demon skills
-### short keisyotype
+## short keisyotype
 
-### ushort keisyoform
+## ushort keisyoform
 
-### ushort dropmakka
+## ushort dropmakka
 Macca dropped upon defeat
-### ushort dropexp
+## ushort dropexp
 Experience dropped upon defeat
-### byte[] dropitem
+## byte[] dropitem
 Items dropped upon defeat
-### byte[] droppoint
+## byte[] droppoint
 
-### ushort specialbit
+## ushort specialbit
 
-### byte specialitem
+## byte specialitem
 
-### byte specialpoint
+## byte specialpoint
 
-### byte hougyokupoint
+## byte hougyokupoint
 
-### byte masekipoint
+## byte masekipoint
 
-### sbyte attackattr
+## sbyte attackattr
 
-### byte attackcnt
+## byte attackcnt
 (Demon press turn icons?)
-### byte attackinterval
+## byte attackinterval
 
-### byte reserve1
+## byte reserve1
